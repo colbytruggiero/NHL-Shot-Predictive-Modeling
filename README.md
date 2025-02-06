@@ -1,4 +1,4 @@
-# NHL-Shot-Predictive-Modeling
+# NHL Scoring Oppurtunities: Predictive Modeling Approach
 
 Being universally recognized as the premier professional hockey organization in the world, the National Hockey League (NHL) is home to players who consistently perform at an elite level. These athletes earn various rewards for their exceptional performances, whether monetary or through accolades, which amateur hockey players worldwide can simply only dream of. NHL players are able to skate faster, shoot harder, and make significantly better decisions under pressure compared to amateur players; moreover, these professional athletes are able to perform at this high level against the toughest competition in the world on a consistent basis.
 
